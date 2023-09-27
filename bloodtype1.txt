@@ -1,0 +1,5 @@
+There are 10 patients of blood type A.
+There is one patient of blood type B.
+There are 10 patients of blood type AB.
+There are 12 patients of blood type O.
+There are no patients of blood type OO.
